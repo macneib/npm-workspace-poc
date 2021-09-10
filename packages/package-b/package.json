@@ -1,0 +1,11 @@
+{
+  "name": "@foo/package-b",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo 'all tests passed!'"
+  },
+  "dependencies": {
+    "@foo/package-a": "1.1.0"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@foo/app-a",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo 'all tests passed!'",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@foo/package-a": "1.1.0",
+    "uuid": "^8.3.1"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "foo",
+  "version": "1.0.0",
+  "author": "Blair MacNeil",
+  "license": "MIT",
+  "workspaces": [
+    "./packages/*",
+    "./commons/*",
+    "./apps/*"
+  ]
+}
